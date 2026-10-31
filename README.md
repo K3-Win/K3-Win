@@ -2,8 +2,8 @@
 Computer Engineering student at CEDT Chulalongkorn University
 interested in **Backend Development** and **DevOps**
 
-**Languages:** C++, TypeScript, JavaScript, Python
-**Tools:** Git, Linux (Ubuntu)
+- **Languages:** C++, TypeScript, JavaScript, Python
+- **Tools:** Git, Linux (Ubuntu)
 
 ### Currently Learning
 - Backend frameworks and API design
