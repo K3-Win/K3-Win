@@ -1,6 +1,6 @@
 # Hi there, I'm K3Win 👋
 
-Computer Engineering student at **CEDT, Chulalongkorn University**  
+1st-Year Computer Engineering student at **CEDT, Chulalongkorn University**  
 Interested in **Backend Development** and **DevOps**
 
 ### Technical Skills
