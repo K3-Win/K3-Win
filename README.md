@@ -1,13 +1,14 @@
-# Hi There I'm K3Win
-Computer Engineering student at CEDT Chulalongkorn University
-interested in **Backend Development** and **DevOps**
+# Hi there, I'm K3Win 👋
 
-- **Languages:** C++, TypeScript, JavaScript, Python
-- **Tools:** Git, Linux (Ubuntu)
+Computer Engineering student at **CEDT, Chulalongkorn University**, interested in **Backend Development** and **DevOps**.
+
+### Technical Skills
+- **Languages:** C++, Python, SQL (Basic), TypeScript (Basic)
+- **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP), REST APIs
+- **AI & Workflow Tools:** Model Context Protocol (MCP)
+- **Tools & Environment:** Git, Linux (Ubuntu)
 
 ### Currently Learning
-- Backend frameworks and API design
-- DevOps concepts and fundamentals
-- Practicing algorithms & problem solving
-
-**Contact:** Reach out via my GitHub profile links.
+- Backend frameworks and RESTful API design
+- DevOps fundamentals and deployment workflows
+- Competitive programming & algorithmic problem solving
