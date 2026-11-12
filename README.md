@@ -1,6 +1,7 @@
 # Hi there, I'm K3Win 👋
 
-Computer Engineering student at **CEDT, Chulalongkorn University**, interested in **Backend Development** and **DevOps**.
+Computer Engineering student at **CEDT, Chulalongkorn University**  
+Interested in **Backend Development** and **DevOps**
 
 ### Technical Skills
 - **Languages:** C++, Python, SQL (Basic), TypeScript (Basic)
