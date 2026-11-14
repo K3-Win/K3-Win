@@ -11,5 +11,5 @@ Interested in **Backend Development** and **DevOps**
 
 ### Currently Learning
 - Backend frameworks and RESTful API design
-- DevOps fundamentals and deployment workflows
+- Database Framework & Tool : SQLite , FastAPI , Pytest
 - Competitive programming & algorithmic problem solving
