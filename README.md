@@ -4,12 +4,14 @@
 Interested in **Backend Development** and **DevOps**
 
 ### Technical Skills
+
 - **Languages:** C++, Python, SQL, TypeScript (Basic)
 - **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP), REST APIs
-- **AI & Workflow Tools:** Model Context Protocol (MCP)
 - **Tools & Environment:** Git, Postman, Linux (Ubuntu)
+- **AI & Workflow Tools:** Model Context Protocol (MCP)
 
 ### Currently Learning
-- Backend frameworks and RESTful API design
-- Database Framework & Tool : SQLite , FastAPI , Pytest
-- Competitive programming & algorithmic problem solving
+
+- **Backend & Testing:** FastAPI, Pytest
+- **Databases:** SQLite, PostgreSQL
+- **Algorithms:** Competitive programming & algorithmic problem solving
