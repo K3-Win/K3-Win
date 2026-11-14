@@ -7,7 +7,7 @@ Interested in **Backend Development** and **DevOps**
 - **Languages:** C++, Python, SQL, TypeScript (Basic)
 - **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP), REST APIs
 - **AI & Workflow Tools:** Model Context Protocol (MCP)
-- **Tools & Environment:** Git, Linux (Ubuntu)
+- **Tools & Environment:** Git, Postman, Linux (Ubuntu)
 
 ### Currently Learning
 - Backend frameworks and RESTful API design
