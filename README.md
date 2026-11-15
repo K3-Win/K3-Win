@@ -5,7 +5,7 @@ Interested in **Backend Development** and **DevOps**
 
 ### Technical Skills
 
-- **Languages:** C++, Python, SQL, TypeScript (Basic)
+- **Languages:** C++, Python, SQL, TypeScript (Basic), C# (Basic)
 - **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP), REST APIs
 - **Tools & Environment:** Git, Postman, Linux (Ubuntu)
 - **AI & Workflow Tools:** Model Context Protocol (MCP)
